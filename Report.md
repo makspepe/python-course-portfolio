@@ -23,24 +23,24 @@
 - Исправлен make, и добавлены новые команды автоматизации
 
 ### make all
-![](https://raw.githubusercontent.com/makspepe/python-course-portfolio/hw3/media/images/7.PNG)
+![](https://raw.githubusercontent.com/makspepe/python-course-portfolio/master/media/images/7.png)
 
 ### Главная
-![](https://raw.githubusercontent.com/makspepe/python-course-portfolio/hw3/media/images/1.PNG)
+![](https://raw.githubusercontent.com/makspepe/python-course-portfolio/master/media/images/1.PNG)
 
 ### Админ
-![](https://raw.githubusercontent.com/makspepe/python-course-portfolio/hw3/media/images/2.PNG)
+![](https://raw.githubusercontent.com/makspepe/python-course-portfolio/master/media/images/2.PNG)
 
 ### Выполненная работа
-![](https://raw.githubusercontent.com/makspepe/python-course-portfolio/hw3/media/images/3.PNG)
+![](https://raw.githubusercontent.com/makspepe/python-course-portfolio/master/media/images/3.PNG)
 
 ### Показ работ на главной
-![](https://raw.githubusercontent.com/makspepe/python-course-portfolio/hw3/media/images/4.PNG)
+![](https://raw.githubusercontent.com/makspepe/python-course-portfolio/master/media/images/4.PNG)
 
 ### Подробности работы
-![](https://raw.githubusercontent.com/makspepe/python-course-portfolio/hw3/media/images/5.PNG)
+![](https://raw.githubusercontent.com/makspepe/python-course-portfolio/master/media/images/5.PNG)
 
 ### Информация о создателе сайта
-![](https://raw.githubusercontent.com/makspepe/python-course-portfolio/hw3/media/images/6.PNG)
+![](https://raw.githubusercontent.com/makspepe/python-course-portfolio/master/media/images/6.PNG)
 
 
