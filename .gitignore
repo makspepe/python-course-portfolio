@@ -135,6 +135,6 @@ dmypy.json
 .DS_Store
 
 # Django
-/media
+#/media
 /portfolio/staticfiles
 /static

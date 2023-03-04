@@ -48,6 +48,7 @@ git clone https://github.com/mnv/python-course-portfolio.git
     ```shell
     ./manage.py migrate
     ```
+	if ./manage.py doesn't work - try to use automation command below
 
 ## Usage
 
@@ -60,7 +61,8 @@ git clone https://github.com/mnv/python-course-portfolio.git
     ```shell
     ./manage.py createsuperuser
     ```
-2. Go to [http://0.0.0.0:8000/admin](http://0.0.0.0:8000/admin) and manage your jobs and blog posts.
+2. Go to [http://0.0.0.0:8000/admin](http://0.0.0.0:8000/admin) and manage your jobs and blog posts.  
+	1. If you're using Windows and step 2 doesn't display the page - try http://[::1]:8000/ instead. 
 
 ## Automation commands
 
@@ -89,8 +91,33 @@ The project contains a special `Makefile` that provides shortcuts for a set of c
     ```shell
     make test
     ```
+	
+6. Database:
+    ```shell
+    make db
+    ```
+	
+7. Migrate:
+    ```shell
+    make migrate
+    ```
+	
+8. Migrations:
+    ```shell
+    make migrations
+    ```
 
-6. Run autoformat, linters and tests in one command:
+9. Create superuser:
+    ```shell
+    make superuser
+    ```
+	
+10. Server:
+    ```shell
+    make up
+    ```
+	
+11. Run autoformat, linters and tests in one command:
     ```shell
     make all
     ```
@@ -117,3 +144,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+

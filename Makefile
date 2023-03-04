@@ -18,7 +18,22 @@ lint:
 
 # запуск автоматических тестов
 test:
-	docker compose run app ./manage.py test
+	docker compose run app python manage.py test
+
+db:
+	docker compose up -d db
+
+migrate:
+	docker compose run app python manage.py migrate
+
+migrations:
+	docker compose run app python manage.py makemigrations
+
+superuser:
+	docker compose run app python manage.py createsuperuser
+
+up:
+	docker compose up --build
 
 # запуск всех функций поддержки качества кода
 all: format lint test
